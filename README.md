@@ -1,3 +1,16 @@
+## 🔗 Project Repositories
+
+### 🌐 QueueLess Web Application
+
+Repository:
+https://github.com/KAUSHIKNARAYANANV2005/QueueLess-Web
+
+### 📱 QueueLess Android Application
+
+Repository:
+https://github.com/KAUSHIKNARAYANANV2005/QueueLess-Android.git
+
+---
 ⚠️ This repository serves as the central project submission repository.
 
 Actual source code is maintained in the dedicated Web and Android repositories linked below.
@@ -24,19 +37,6 @@ A modern web-based platform providing queue management, appointment booking, bus
 
 ---
 
-## 🔗 Project Repositories
-
-### 🌐 QueueLess Web Application
-
-Repository:
-https://github.com/KAUSHIKNARAYANANV2005/QueueLess-Web
-
-### 📱 QueueLess Android Application
-
-Repository:
-https://github.com/KAUSHIKNARAYANANV2005/QueueLess-Android.git
-
----
 
 ## 📱 Android Application Features
 
